@@ -1,2 +1,2 @@
-# Git-with-Rstudio_Taktozo
+# TT Git
 Learning how to use github and rstudio
